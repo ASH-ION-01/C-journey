@@ -1,0 +1,52 @@
+🧩 Pattern-Wise DSA Roadmap (with Examples)
+Let’s break it into phases with core patterns — all you need is consistency. I’ll add a 7-day kickoff plan below.
+
+🔹 PHASE 1: Arrays + Hashing Patterns
+Pattern	Key Concepts	Example Problems
+Two Pointers	Sorted array, minimize space	- Two Sum II
+- Move Zeroes
+- Remove Duplicates
+Sliding Window	Fixed or variable size	- Max sum subarray
+- Longest substring without repeat
+Prefix Sum	Range queries, subarrays	- Subarray Sum = K
+- Equilibrium Index
+Hashing	Fast lookups	- Two Sum
+- Count Distinct Elements
+- Longest Consecutive Sequence
+
+🔹 PHASE 2: Recursion + Backtracking
+Pattern	Key Concepts	Example Problems
+Basic Recursion	Base + recursive calls	- Factorial
+- Fibonacci
+Backtracking	Try → backtrack → try again	- N-Queens
+- Rat in Maze
+- Subsets / Permutations
+
+🔹 PHASE 3: LinkedList + Stack/Queue
+Pattern	Key Concepts	Example Problems
+Fast/Slow Pointers	Detect loops, mid element	- Detect Cycle
+- Middle of LL
+- Palindrome LL
+Stack Patterns	Monotonic Stack, Histograms	- Next Greater Element
+- Valid Parentheses
+- Largest Rectangle in Histogram
+
+🔹 PHASE 4: Trees + Graphs
+Pattern	Key Concepts	Example Problems
+DFS / BFS Traversal	Level order, path finding	- Level Order
+- Zigzag Traversal
+- Clone Graph
+Tree Recursion	Post/In/Preorder, Diameter	- Height of Tree
+- LCA
+- Path Sum
+Union Find / DSU	Connected components	- Number of Islands
+- Accounts Merge
+
+🔹 PHASE 5: Greedy + Dynamic Programming
+Pattern	Key Concepts	Example Problems
+Greedy Choices	Always local optimum	- Activity Selection
+- Gas Station
+- Jump Game
+DP Patterns	Memoization, Tabulation	- Fibonacci
+- 0/1 Knapsack
+- Longest Palindromic Substring
